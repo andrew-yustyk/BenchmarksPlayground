@@ -1,0 +1,9 @@
+﻿<Solution>
+  <Folder Name="/SolutionFiles/">
+    <File Path=".editorconfig" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path="Readme.md" />
+  </Folder>
+  <Project Path="BenchmarksPlayground\BenchmarksPlayground.csproj" Type="Classic C#" />
+</Solution>
